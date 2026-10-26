@@ -79,7 +79,3 @@ Desktop captures from the local test instance (1300 × 768). All business and cu
 ![Desktop owner dashboard with sales, debt, profit, and expense summaries](docs/dashboard.png)
 
 ![Dashboard production, daily revenue, sales-channel, and payment summaries](docs/dashboard-operations.png)
-
-### 04 · PDF receipt
-
-<p align="center"><img src="docs/receipt.png" alt="Generated sales receipt PDF on a clean white page" width="520"></p>
